@@ -1,0 +1,10 @@
+{
+  "reference_cds_count": 78,
+  "glimmer_predicted_count": 108,
+  "exact_match": 51,
+  "5_agree_3_disagree": 0,
+  "5_disagree_3_agree": 20,
+  "both_disagree": 1,
+  "reference_with_no_prediction": 6,
+  "predictions_with_no_reference_overlap": 33
+}

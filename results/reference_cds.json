@@ -1,0 +1,1254 @@
+[
+  {
+    "strand": "+",
+    "segments": [
+      [
+        92527,
+        92721
+      ],
+      [
+        1,
+        2502
+      ]
+    ],
+    "five_prime": 92527,
+    "three_prime": 2502,
+    "partial": false,
+    "location": "join(92527..92721,1..2502)",
+    "locus_tag": "",
+    "gene": "tagA",
+    "product": "ToxR-regulated lipoprotein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        2589,
+        3464
+      ]
+    ],
+    "five_prime": 2589,
+    "three_prime": 3464,
+    "partial": false,
+    "location": "2589..3464",
+    "locus_tag": "",
+    "gene": "etpC",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        3675,
+        5432
+      ]
+    ],
+    "five_prime": 3675,
+    "three_prime": 5432,
+    "partial": false,
+    "location": "3675..5432",
+    "locus_tag": "",
+    "gene": "etpD",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        5432,
+        6937
+      ]
+    ],
+    "five_prime": 5432,
+    "three_prime": 6937,
+    "partial": false,
+    "location": "5432..6937",
+    "locus_tag": "",
+    "gene": "etpE",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        6939,
+        8162
+      ]
+    ],
+    "five_prime": 6939,
+    "three_prime": 8162,
+    "partial": false,
+    "location": "6939..8162",
+    "locus_tag": "",
+    "gene": "etpF",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        8193,
+        8627
+      ]
+    ],
+    "five_prime": 8193,
+    "three_prime": 8627,
+    "partial": false,
+    "location": "8193..8627",
+    "locus_tag": "",
+    "gene": "etpG",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        8624,
+        9178
+      ]
+    ],
+    "five_prime": 8624,
+    "three_prime": 9178,
+    "partial": false,
+    "location": "8624..9178",
+    "locus_tag": "",
+    "gene": "etpH",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        9193,
+        9540
+      ]
+    ],
+    "five_prime": 9193,
+    "three_prime": 9540,
+    "partial": false,
+    "location": "9193..9540",
+    "locus_tag": "",
+    "gene": "etpI",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        9537,
+        10136
+      ]
+    ],
+    "five_prime": 9537,
+    "three_prime": 10136,
+    "partial": false,
+    "location": "9537..10136",
+    "locus_tag": "",
+    "gene": "etpJ",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        10133,
+        11110
+      ]
+    ],
+    "five_prime": 10133,
+    "three_prime": 11110,
+    "partial": false,
+    "location": "10133..11110",
+    "locus_tag": "",
+    "gene": "etpK",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        11473,
+        12321
+      ]
+    ],
+    "five_prime": 11473,
+    "three_prime": 12321,
+    "partial": false,
+    "location": "11473..12321",
+    "locus_tag": "",
+    "gene": "etpL",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        12308,
+        12820
+      ]
+    ],
+    "five_prime": 12308,
+    "three_prime": 12820,
+    "partial": false,
+    "location": "12308..12820",
+    "locus_tag": "",
+    "gene": "etpM",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        12995,
+        13711
+      ]
+    ],
+    "five_prime": 12995,
+    "three_prime": 13711,
+    "partial": false,
+    "location": "12995..13711",
+    "locus_tag": "",
+    "gene": "etpN",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        13803,
+        14204
+      ]
+    ],
+    "five_prime": 13803,
+    "three_prime": 14204,
+    "partial": false,
+    "location": "13803..14204",
+    "locus_tag": "",
+    "gene": "etpO",
+    "product": "Type II secretion pathway related protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        14347,
+        14688
+      ]
+    ],
+    "five_prime": 14347,
+    "three_prime": 14688,
+    "partial": false,
+    "location": "14347..14688",
+    "locus_tag": "",
+    "gene": "IS911",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        14733,
+        15554
+      ]
+    ],
+    "five_prime": 14733,
+    "three_prime": 15554,
+    "partial": false,
+    "location": "14733..15554",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        16119,
+        16610
+      ]
+    ],
+    "five_prime": 16119,
+    "three_prime": 16610,
+    "partial": false,
+    "location": "16119..16610",
+    "locus_tag": "",
+    "gene": "hlyC",
+    "product": "Hemolysin C"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        16612,
+        19608
+      ]
+    ],
+    "five_prime": 16612,
+    "three_prime": 19608,
+    "partial": false,
+    "location": "16612..19608",
+    "locus_tag": "",
+    "gene": "hlyA",
+    "product": "Hemolysin A"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        19658,
+        21778
+      ]
+    ],
+    "five_prime": 19658,
+    "three_prime": 21778,
+    "partial": false,
+    "location": "19658..21778",
+    "locus_tag": "",
+    "gene": "hlyB",
+    "product": "Hemolysin B"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        21782,
+        23221
+      ]
+    ],
+    "five_prime": 21782,
+    "three_prime": 23221,
+    "partial": false,
+    "location": "21782..23221",
+    "locus_tag": "",
+    "gene": "hlyD",
+    "product": "Hemolysin D"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        23512,
+        23796
+      ]
+    ],
+    "five_prime": 23512,
+    "three_prime": 23796,
+    "partial": false,
+    "location": "23512..23796",
+    "locus_tag": "",
+    "gene": "papX",
+    "product": "PapX protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        24316,
+        25056
+      ]
+    ],
+    "five_prime": 24316,
+    "three_prime": 25056,
+    "partial": false,
+    "location": "24316..25056",
+    "locus_tag": "",
+    "gene": "",
+    "product": "recombinase"
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        24745,
+        25062
+      ]
+    ],
+    "five_prime": 25062,
+    "three_prime": 24745,
+    "partial": false,
+    "location": "complement(24745..25062)",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        25341,
+        26294
+      ]
+    ],
+    "five_prime": 26294,
+    "three_prime": 25341,
+    "partial": false,
+    "location": "complement(25341..26294)",
+    "locus_tag": "",
+    "gene": "repFIB",
+    "product": "RepFIB"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        26056,
+        26385
+      ]
+    ],
+    "five_prime": 26056,
+    "three_prime": 26385,
+    "partial": false,
+    "location": "26056..26385",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        26923,
+        27543
+      ]
+    ],
+    "five_prime": 27543,
+    "three_prime": 26923,
+    "partial": false,
+    "location": "complement(26923..27543)",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        27540,
+        28223
+      ]
+    ],
+    "five_prime": 28223,
+    "three_prime": 27540,
+    "partial": false,
+    "location": "complement(27540..28223)",
+    "locus_tag": "",
+    "gene": "",
+    "product": "KfrAs"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        28682,
+        28900
+      ]
+    ],
+    "five_prime": 28682,
+    "three_prime": 28900,
+    "partial": false,
+    "location": "28682..28900",
+    "locus_tag": "",
+    "gene": "letA",
+    "product": "LetA protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        28902,
+        29207
+      ]
+    ],
+    "five_prime": 28902,
+    "three_prime": 29207,
+    "partial": false,
+    "location": "28902..29207",
+    "locus_tag": "",
+    "gene": "letB",
+    "product": "cytotoxic protein LetB"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        29208,
+        30014
+      ]
+    ],
+    "five_prime": 29208,
+    "three_prime": 30014,
+    "partial": false,
+    "location": "29208..30014",
+    "locus_tag": "",
+    "gene": "",
+    "product": "resolvase"
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        30736,
+        31626
+      ]
+    ],
+    "five_prime": 31626,
+    "three_prime": 30736,
+    "partial": false,
+    "location": "complement(30736..31626)",
+    "locus_tag": "",
+    "gene": "IS629",
+    "product": "transposase"
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        31623,
+        31949
+      ]
+    ],
+    "five_prime": 31949,
+    "three_prime": 31623,
+    "partial": false,
+    "location": "complement(31623..31949)",
+    "locus_tag": "",
+    "gene": "IS629",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        32837,
+        34003
+      ]
+    ],
+    "five_prime": 32837,
+    "three_prime": 34003,
+    "partial": false,
+    "location": "32837..34003",
+    "locus_tag": "",
+    "gene": "sopA",
+    "product": "SopA protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        34003,
+        34974
+      ]
+    ],
+    "five_prime": 34003,
+    "three_prime": 34974,
+    "partial": false,
+    "location": "34003..34974",
+    "locus_tag": "",
+    "gene": "sopB",
+    "product": "SopB protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        36274,
+        37998
+      ]
+    ],
+    "five_prime": 36274,
+    "three_prime": 37998,
+    "partial": false,
+    "location": "36274..37998",
+    "locus_tag": "",
+    "gene": "",
+    "product": "reverse transcriptase"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        38075,
+        38977
+      ]
+    ],
+    "five_prime": 38075,
+    "three_prime": 38977,
+    "partial": false,
+    "location": "38075..38977",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        38981,
+        39286
+      ]
+    ],
+    "five_prime": 38981,
+    "three_prime": 39286,
+    "partial": false,
+    "location": "38981..39286",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        39363,
+        40046
+      ]
+    ],
+    "five_prime": 39363,
+    "three_prime": 40046,
+    "partial": false,
+    "location": "39363..40046",
+    "locus_tag": "",
+    "gene": "",
+    "product": "hemagglutinin-associated protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        40162,
+        40716
+      ]
+    ],
+    "five_prime": 40162,
+    "three_prime": 40716,
+    "partial": false,
+    "location": "40162..40716",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        40762,
+        41538
+      ]
+    ],
+    "five_prime": 40762,
+    "three_prime": 41538,
+    "partial": false,
+    "location": "40762..41538",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        41411,
+        41983
+      ]
+    ],
+    "five_prime": 41411,
+    "three_prime": 41983,
+    "partial": false,
+    "location": "41411..41983",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        42079,
+        42381
+      ]
+    ],
+    "five_prime": 42079,
+    "three_prime": 42381,
+    "partial": false,
+    "location": "42079..42381",
+    "locus_tag": "",
+    "gene": "klcA",
+    "product": "antirestriction protein KlcA"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        42428,
+        42850
+      ]
+    ],
+    "five_prime": 42428,
+    "three_prime": 42850,
+    "partial": false,
+    "location": "42428..42850",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        43157,
+        43546
+      ]
+    ],
+    "five_prime": 43157,
+    "three_prime": 43546,
+    "partial": false,
+    "location": "43157..43546",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        44034,
+        44264
+      ]
+    ],
+    "five_prime": 44034,
+    "three_prime": 44264,
+    "partial": false,
+    "location": "44034..44264",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        44316,
+        45677
+      ]
+    ],
+    "five_prime": 44316,
+    "three_prime": 45677,
+    "partial": false,
+    "location": "44316..45677",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        45724,
+        46287
+      ]
+    ],
+    "five_prime": 45724,
+    "three_prime": 46287,
+    "partial": false,
+    "location": "45724..46287",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        46373,
+        46828
+      ]
+    ],
+    "five_prime": 46828,
+    "three_prime": 46373,
+    "partial": false,
+    "location": "complement(46373..46828)",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        47130,
+        47582
+      ]
+    ],
+    "five_prime": 47130,
+    "three_prime": 47582,
+    "partial": false,
+    "location": "47130..47582",
+    "locus_tag": "",
+    "gene": "ssb",
+    "product": "single-strand binding protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        47938,
+        49896
+      ]
+    ],
+    "five_prime": 47938,
+    "three_prime": 49896,
+    "partial": false,
+    "location": "47938..49896",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        49951,
+        50385
+      ]
+    ],
+    "five_prime": 49951,
+    "three_prime": 50385,
+    "partial": false,
+    "location": "49951..50385",
+    "locus_tag": "",
+    "gene": "psiB",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        50382,
+        51143
+      ]
+    ],
+    "five_prime": 50382,
+    "three_prime": 51143,
+    "partial": false,
+    "location": "50382..51143",
+    "locus_tag": "",
+    "gene": "psiA",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        51375,
+        51533
+      ]
+    ],
+    "five_prime": 51375,
+    "three_prime": 51533,
+    "partial": false,
+    "location": "51375..51533",
+    "locus_tag": "",
+    "gene": "parB",
+    "product": "Stable plasmid inheritance protein (F leading maintenance protein)"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        51715,
+        53688
+      ]
+    ],
+    "five_prime": 51715,
+    "three_prime": 53688,
+    "partial": false,
+    "location": "51715..53688",
+    "locus_tag": "",
+    "gene": "nikB",
+    "product": "NikB"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        53756,
+        54187
+      ]
+    ],
+    "five_prime": 53756,
+    "three_prime": 54187,
+    "partial": false,
+    "location": "53756..54187",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        54761,
+        55120
+      ]
+    ],
+    "five_prime": 55120,
+    "three_prime": 54761,
+    "partial": false,
+    "location": "complement(54761..55120)",
+    "locus_tag": "",
+    "gene": "IS3",
+    "product": "transposase Tra5"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        55302,
+        55712
+      ]
+    ],
+    "five_prime": 55302,
+    "three_prime": 55712,
+    "partial": false,
+    "location": "55302..55712",
+    "locus_tag": "",
+    "gene": "IS21",
+    "product": "transposase"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        55981,
+        65490
+      ]
+    ],
+    "five_prime": 55981,
+    "three_prime": 65490,
+    "partial": false,
+    "location": "55981..65490",
+    "locus_tag": "",
+    "gene": "toxB",
+    "product": "Toxin B"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        65582,
+        65854
+      ]
+    ],
+    "five_prime": 65582,
+    "three_prime": 65854,
+    "partial": false,
+    "location": "65582..65854",
+    "locus_tag": "",
+    "gene": "IS3",
+    "product": "transposase Tra5"
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        65781,
+        66284
+      ]
+    ],
+    "five_prime": 66284,
+    "three_prime": 65781,
+    "partial": false,
+    "location": "complement(65781..66284)",
+    "locus_tag": "",
+    "gene": "IS629",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        67749,
+        68495
+      ]
+    ],
+    "five_prime": 67749,
+    "three_prime": 68495,
+    "partial": false,
+    "location": "67749..68495",
+    "locus_tag": "",
+    "gene": "traX",
+    "product": "TraX protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        68554,
+        69414
+      ]
+    ],
+    "five_prime": 68554,
+    "three_prime": 69414,
+    "partial": false,
+    "location": "68554..69414",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        69517,
+        70077
+      ]
+    ],
+    "five_prime": 69517,
+    "three_prime": 70077,
+    "partial": false,
+    "location": "69517..70077",
+    "locus_tag": "",
+    "gene": "finO",
+    "product": "fertility inhibition protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        70667,
+        71128
+      ]
+    ],
+    "five_prime": 70667,
+    "three_prime": 71128,
+    "partial": false,
+    "location": "70667..71128",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        71421,
+        71759
+      ]
+    ],
+    "five_prime": 71421,
+    "three_prime": 71759,
+    "partial": false,
+    "location": "71421..71759",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        71999,
+        72253
+      ]
+    ],
+    "five_prime": 71999,
+    "three_prime": 72253,
+    "partial": false,
+    "location": "71999..72253",
+    "locus_tag": "",
+    "gene": "repA2",
+    "product": "Replication protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        72556,
+        73413
+      ]
+    ],
+    "five_prime": 72556,
+    "three_prime": 73413,
+    "partial": false,
+    "location": "72556..73413",
+    "locus_tag": "",
+    "gene": "repA1",
+    "product": "Replication protein"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        74325,
+        74609
+      ]
+    ],
+    "five_prime": 74325,
+    "three_prime": 74609,
+    "partial": false,
+    "location": "74325..74609",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        74609,
+        74884
+      ]
+    ],
+    "five_prime": 74609,
+    "three_prime": 74884,
+    "partial": false,
+    "location": "74609..74884",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        74979,
+        75185
+      ]
+    ],
+    "five_prime": 74979,
+    "three_prime": 75185,
+    "partial": false,
+    "location": "74979..75185",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "-",
+    "segments": [
+      [
+        76062,
+        76526
+      ]
+    ],
+    "five_prime": 76526,
+    "three_prime": 76062,
+    "partial": false,
+    "location": "complement(76062..76526)",
+    "locus_tag": "",
+    "gene": "IS91",
+    "product": "transposase"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        76888,
+        79098
+      ]
+    ],
+    "five_prime": 76888,
+    "three_prime": 79098,
+    "partial": false,
+    "location": "76888..79098",
+    "locus_tag": "",
+    "gene": "katP",
+    "product": "Catalase-peroxidase"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        79689,
+        80576
+      ]
+    ],
+    "five_prime": 79689,
+    "three_prime": 80576,
+    "partial": false,
+    "location": "79689..80576",
+    "locus_tag": "",
+    "gene": "IS629",
+    "product": "transposase"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        80757,
+        84659
+      ]
+    ],
+    "five_prime": 80757,
+    "three_prime": 84659,
+    "partial": false,
+    "location": "80757..84659",
+    "locus_tag": "",
+    "gene": "espP",
+    "product": "serine protease EspP"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        87222,
+        87659
+      ]
+    ],
+    "five_prime": 87222,
+    "three_prime": 87659,
+    "partial": false,
+    "location": "87222..87659",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        87659,
+        88765
+      ]
+    ],
+    "five_prime": 87659,
+    "three_prime": 88765,
+    "partial": false,
+    "location": "87659..88765",
+    "locus_tag": "",
+    "gene": "",
+    "product": ""
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        88855,
+        90576
+      ]
+    ],
+    "five_prime": 88855,
+    "three_prime": 90576,
+    "partial": false,
+    "location": "88855..90576",
+    "locus_tag": "",
+    "gene": "",
+    "product": "hypothetical 66.6 kD protein in FRWD-PPC intergenic region"
+  },
+  {
+    "strand": "+",
+    "segments": [
+      [
+        90650,
+        91648
+      ]
+    ],
+    "five_prime": 90650,
+    "three_prime": 91648,
+    "partial": false,
+    "location": "90650..91648",
+    "locus_tag": "",
+    "gene": "",
+    "product": "Lipid A biosynthesis (Kdo)2-(lauroyl)-lipid IVA acyltransferase"
+  }
+]

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+glimmer_run/glimmer.icm
+glimmer_run/train.seq
+.DS_Store
